@@ -7,6 +7,8 @@ $ npm install
 $ npm start
 ````
 
+Website: https://hometown-site-lite.netlify.app/
+
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About This project
 
